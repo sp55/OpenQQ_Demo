@@ -10,7 +10,6 @@
 #import "ViewController.h"
 #import "OpenChatQQHelper.h"
 @interface ViewController ()
-
 @end
 
 @implementation ViewController
@@ -35,7 +34,5 @@
     //2.我前期上架一个app,便是这样处理的.
 }
 
-
-//栾川
 
 @end
